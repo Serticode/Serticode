@@ -2,7 +2,7 @@
 
 I'm Samuel Akujor, a Mobile Engineer specializing in Flutter and cross-platform development.
 
-### 🌱 What I'm currently learning
+## 🌱 What I'm currently learning
 
 I'm always pushing boundaries!
 
@@ -10,7 +10,7 @@ Right now, I'm diving deeper into advanced Flutter optimizations, AI integration
 
 I'm also exploring emerging tools in fintech security and real-time systems—as long as they align with scalable, user-centric design! 😊
 
-### 👨‍💻 My technical expertise
+## 👨‍💻 My technical expertise
 
 As a Mobile Engineer with 4+ years of experience architecting apps from scratch for 50k+ users, I bring deep expertise in:
 
@@ -26,13 +26,13 @@ As a Mobile Engineer with 4+ years of experience architecting apps from scratch 
 
 I've led teams of 2-4 engineers, transformed legacy codebases, and delivered User Experience focused mobile apps in Fintech, Ride Hailing Services and social platforms.
 
-### 📚 Articles and Talks
+## 📚 Articles and Talks
 
 I love sharing knowledge on mobile engineering, architecture migrations, and performance tuning.
 
 I'll be doing a couple of technical write ups and keepig this updated as i publish them.
 
-### ❤️ Fan of Open Source
+## ❤️ Fan of Open Source
 
 I'm passionate about contributing to collaborative projects.
 
@@ -44,7 +44,7 @@ While I've focused on proprietary fintech and social apps, my personal projects 
 
 I thrive on projects that emphasize security, scalability, and user engagement—let's collaborate!
 
-### 📫 How to reach me
+## 📫 How to reach me
 
 Connect with me via [Email](mailto:sakujor3@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samuel-onyedikachukwu-akujor/) | [GitHub](https://github.com/Serticode)
 
