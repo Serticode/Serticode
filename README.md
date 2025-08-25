@@ -38,7 +38,7 @@ I'm passionate about contributing to collaborative projects.
 
 While I've focused on proprietary fintech and social apps, my personal projects showcase my commitment:
 
-- Reply Genie: An AI-powered Flutter app with OpenAI integration for context-aware responses, OCR/ASR processing, and Riverpod state management
+- [Reply Genie](https://apps.apple.com/us/app/reply-genie/id6748350049): An AI-powered Flutter app with OpenAI integration for context-aware responses, OCR/ASR processing, and Riverpod state management
 - Comiles: A ride-hailing platform built with Feature-First Architecture, real-time maps, Agora SDK for VoIP/messaging, and WebSockets for <3s latency
 - Contributions to evolving platforms like Storipod (micro-blogging with custom Stori formats and creator marketplace features)
 
