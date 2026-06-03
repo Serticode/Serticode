@@ -27,9 +27,9 @@ Led teams of 2 - 4 engineers, modernized legacy codebases, and delivered fintech
 Updates to come as I polish my thoughts to painstaking detail for a teenager to consume.
 
 However, find my github gists.
-- [Arch Dial](https://gist.github.com/Serticode/501e26f08708d23f7fd998ee3baf3d83) - An arc based dial component built on circular geometry, featuring inward facing ticks and gesture controlled rotation.
-- [Creeping Wave](https://gist.github.com/Serticode/9e4ad6c4c9080aa86fda33d0de98aeae) - Diagonal wave sweeping a 5 row cell grid, lighting cells green with cosine edge fade, driven by frame accurate ticker.
-- [Linear Happinnes Meter](https://gist.github.com/Serticode/0f57fa59ddad54a603ab0c8d3fd15186) - An experimental mood selector built with Flutter, exploring Dart 3 language features and high fidelity UI animation.
+- [Arch Dial] - [Live Demo](https://dartpad.dev/?id=501e26f08708d23f7fd998ee3baf3d83) - [Code](https://gist.github.com/Serticode/501e26f08708d23f7fd998ee3baf3d83) - An arc based dial component built on circular geometry, featuring inward facing ticks and gesture controlled rotation.
+- [Creeping Wave] - [Live Demo](https://dartpad.dev/?id=9e4ad6c4c9080aa86fda33d0de98aeae) - [Code](https://gist.github.com/Serticode/9e4ad6c4c9080aa86fda33d0de98aeae) - Diagonal wave sweeping a 5 row cell grid, lighting cells green with cosine edge fade, driven by frame accurate ticker.
+- [Linear Happinnes Meter] - [Live Demo](https://dartpad.dev/?id=0f57fa59ddad54a603ab0c8d3fd15186) - [Code](https://gist.github.com/Serticode/0f57fa59ddad54a603ab0c8d3fd15186) - An experimental mood selector built with Flutter, exploring Dart 3 language features and high fidelity UI animation.
 
 ## ❤️ Projects I'm proud of
 
