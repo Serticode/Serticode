@@ -24,13 +24,19 @@ Led teams of 2 - 4 engineers, modernized legacy codebases, and delivered fintech
 
 ## 📄 Articles & talks
 
-I like to write and about mobile architecture, performance tuning, and migrations; taking things from a senior engineer POV into basic details that even a 5 year old can understand while staying focused. More to come as I publish.
+Updates to come as I polish my thoughts to painstaking detail for a teenager to consume.
+
+However, find my github gists.
+- [Arch Dial](https://gist.github.com/Serticode/501e26f08708d23f7fd998ee3baf3d83) - An arc based dial component built on circular geometry, featuring inward facing ticks and gesture controlled rotation.
+- [Creeping Wave](https://gist.github.com/Serticode/9e4ad6c4c9080aa86fda33d0de98aeae) - Diagonal wave sweeping a 5 row cell grid, lighting cells green with cosine edge fade, driven by frame accurate ticker.
+- [Linear Happinnes Meter](https://gist.github.com/Serticode/0f57fa59ddad54a603ab0c8d3fd15186) - An experimental mood selector built with Flutter, exploring Dart 3 language features and high fidelity UI animation.
 
 ## ❤️ Projects I'm proud of
 
-- [Reply Genie](https://apps.apple.com/us/app/reply-genie/id6748350049) – AI-powered Flutter app with OpenAI, OCR/ASR, Riverpod  
-- [CoMiles](https://co-miles.com) – Ride-hailing with real-time maps, Agora VoIP, WebSockets (<3s latency)  
-- [Storipod](https://apps.apple.com/us/app/storipod/id6463716901) – Micro-blogging platform with custom Stori formats and creator tools
+- [Dievas](https://dievas.serticode.com) - Flutter design system monorepo, with multi brand token architecture, inspired by Moon Design System component sets.
+- [Storipod](https://apps.apple.com/us/app/storipod/id6463716901) – Micro blogging platform with custom Stori formats and creator tools
+- [CoMiles](https://co-miles.com) – Ride hailing with real time maps, Agora VoIP, WebSockets (<3s latency)  
+- [Reply Genie](https://apps.apple.com/us/app/reply-genie/id6748350049) – AI powered Flutter app with OpenAI, OCR/ASR, Riverpod  
 
 I prioritize systems, security, scalability, and user engagement.
 
