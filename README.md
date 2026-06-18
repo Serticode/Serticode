@@ -33,7 +33,7 @@ However, find my github gists.
 
 ## ❤️ Projects I'm proud of
 
-- [Dievas](https://dievas.serticode.com) - Flutter design system monorepo, with multi brand token architecture, inspired by Moon Design System component sets.
+- [Dievas](https://dievas.serticode.com) - [Pub Dev](https://pub.dev/packages/dievas) Flutter design system monorepo, with multi brand token architecture, inspired by Moon Design System component sets.
 - [Storipod](https://apps.apple.com/us/app/storipod/id6463716901) – Micro blogging platform with custom Stori formats and creator tools
 - [CoMiles](https://co-miles.com) – Ride hailing with real time maps, Agora VoIP, WebSockets (<3s latency)  
 - [Reply Genie](https://apps.apple.com/us/app/reply-genie/id6748350049) – AI powered Flutter app with OpenAI, OCR/ASR, Riverpod  
