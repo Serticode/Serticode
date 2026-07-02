@@ -23,8 +23,9 @@ With 5+ years of experience building apps used by 100k+ users, I focus on:
 Led teams of 2 - 4 engineers, modernized legacy codebases, and delivered fintech, ride hailing, lifestyle and social apps.
 
 ## 📄 Articles & talks
-
-Updates to come as I polish my thoughts to painstaking detail for a teenager to consume.
+- Building Thoth; an Identity Preserving Publishing Engine - [Thoth](https://medium.com/@serticode/were-losing-the-human-touch-in-our-educational-contents-publishing-wise-that-s-just-my-opinion-bdff3c9fdfef?sharedUserId=serticode)
+- Building an orbital field engine - [Orbital Field](https://medium.com/@serticode/building-an-orbital-field-engine-in-flutter-a-tiny-universe-you-can-tap-drag-save-and-break-05d4254f0d46?sharedUserId=serticode)
+- Generics made simple - [Generics](https://medium.com/@serticode/generics-made-simple-43aacfca92f0?sharedUserId=serticode)
 
 However, find my github gists.
 - [Arch Dial] - [Live Demo](https://dartpad.dev/?id=501e26f08708d23f7fd998ee3baf3d83) - [Code](https://gist.github.com/Serticode/501e26f08708d23f7fd998ee3baf3d83) - An arc based dial component built on circular geometry, featuring inward facing ticks and gesture controlled rotation.
