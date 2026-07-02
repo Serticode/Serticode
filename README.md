@@ -1,10 +1,10 @@
 ## Hi there! 👋
 
-I'm Samuel Akujor, a Mobile Engineer specializing in Flutter and cross platform development.
+I'm Samuel Akujor, a Mobile Engineer specializing in Flutter and cross platform development, yet capable in Backend systems with Node JS, Typescript, GoLang.
 
 ## 🔭 What I'm currently learning
 
-Advanced Flutter performance optimization, AI integrations (OpenAI APIs), native development (iOS/Android), and Node.js / GoLang for full stack workflows. Also exploring System Design and Architecture
+AI integrations, native development (iOS/Android). Also exploring System Design and Architecture
 
 ## 👨‍💻 Technical expertise
 
@@ -28,6 +28,7 @@ Led teams of 2 - 4 engineers, modernized legacy codebases, and delivered fintech
 - Generics made simple - [Generics](https://medium.com/@serticode/generics-made-simple-43aacfca92f0?sharedUserId=serticode)
 
 ## Github gists.
+- [Orbital Field Engine] - [Live Demo](https://dartpad.dev/?id=a33c2d934f4fdcc2cdff9725a08757ac) - [Code](https://gist.github.com/Serticode/a33c2d934f4fdcc2cdff9725a08757ac) - An interactive Flutter gravity sandbox where suns, planets, moons, black holes, and nebulae move through a softened N-body simulation with orbit previews, debug force vectors, trails, presets, and JSON state export.
 - [Arch Dial] - [Live Demo](https://dartpad.dev/?id=501e26f08708d23f7fd998ee3baf3d83) - [Code](https://gist.github.com/Serticode/501e26f08708d23f7fd998ee3baf3d83) - An arc based dial component built on circular geometry, featuring inward facing ticks and gesture controlled rotation.
 - [Creeping Wave] - [Live Demo](https://dartpad.dev/?id=9e4ad6c4c9080aa86fda33d0de98aeae) - [Code](https://gist.github.com/Serticode/9e4ad6c4c9080aa86fda33d0de98aeae) - Diagonal wave sweeping a 5 row cell grid, lighting cells green with cosine edge fade, driven by frame accurate ticker.
 - [Linear Happinnes Meter] - [Live Demo](https://dartpad.dev/?id=0f57fa59ddad54a603ab0c8d3fd15186) - [Code](https://gist.github.com/Serticode/0f57fa59ddad54a603ab0c8d3fd15186) - An experimental mood selector built with Flutter, exploring Dart 3 language features and high fidelity UI animation.
